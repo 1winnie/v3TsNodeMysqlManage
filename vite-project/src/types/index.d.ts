@@ -1,0 +1,4 @@
+interface indexDateItf {
+    salePie:{}[],
+    saleMap:{}[]
+}
